@@ -1,7 +1,7 @@
 # Reservation software Testing (CUnit Project)
 
 ## 📌 Overview
-This project tests the **EDGES Reservation Software** written in C language.  
+This project tests the **EDGES Reservation Software** written in C language. 
 The software supports two user roles:
 - **Admin**: create/delete accounts, view users, manage courses.
 - **Student**: create account, login, change password, reserve courses, view enrolled courses.
