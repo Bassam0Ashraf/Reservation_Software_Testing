@@ -59,8 +59,9 @@ The goal of this project was to apply **software testing techniques** and use th
 
 ## 🚀 How to Run Tests
 
-### 1️⃣ Setup Testing mode
-- At the end of file `Tests.c` we have to choose one mode to run test and comment the other modes
+### 1️⃣ Setup Testing mode:
+- Clone the repository first of all.
+- At the end of file `Tests.c` we have to choose one mode to run test and comment the other modes.
 1. Running the Test Suite through Basic Console and we have three option
    - CU_basic_set_mode(CU_BRM_VERBOSE);  ===> Detailed logs for each test (good for debugging)
    - CU_basic_set_mode(CU_BRM_SILENT);   ===> Minimal logs (best for automation/CI)
@@ -69,5 +70,5 @@ The goal of this project was to apply **software testing techniques** and use th
 2. Running the Test Suite through Console interactive
    - CU_console_run_tests();
 
-### 2️⃣ Build the Project
+### 2️⃣ Build the Project:
 Just build the project after saving the mode selected and run it
