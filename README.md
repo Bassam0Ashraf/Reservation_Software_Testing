@@ -42,9 +42,9 @@ The goal of this project was to apply **software testing techniques** and use th
 ---
 
 ## 📊 Reports
-- [📄 Test Cases Report](docs/Test_Cases_Report.pdf)  
-- [🐞 Bug Report](docs/Bugs_Report.pdf)  
-- [📘 Test_Completion_Report](docs/Test_Completion_Report.pdf)  
+- [📄 Test Cases Report](Reports/Test_Cases_Report.pdf)  
+- [🐞 Bug Report](Reports/Bugs_Report.pdf)  
+- [📘 Test_Completion_Report](Reports/Test_Completion_Report.pdf)  
 
 ---
 
