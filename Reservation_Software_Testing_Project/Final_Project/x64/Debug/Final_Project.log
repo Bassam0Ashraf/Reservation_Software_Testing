@@ -1,0 +1,81 @@
+﻿  Tests.c
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Generic\System_info.h(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'Test/Tests.c')
+      J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Generic\System_info.h(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(417,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(474,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(535,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(585,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(642,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(696,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(743,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(802,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(883,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(939,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(999,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1061,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1127,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1189,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1253,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1291,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1409,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1454,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1689,11): warning C4013: 'ShowStudentCourses' undefined; assuming extern returning int
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1679,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1680,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1749,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1750,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1823,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1824,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1878,11): warning C4013: 'AddStudentToCourse' undefined; assuming extern returning int
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1870,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1871,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1872,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1918,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1919,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(1920,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2019,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2020,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2021,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2101,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2102,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2103,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2162,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2192,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2221,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2250,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2284,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2336,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2360,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2387,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2413,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2445,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2446,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2483,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2484,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2520,16): warning C4047: 'initializing': 'unsigned char' differs in levels of indirection from 'void *'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2548,89): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2548,125): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2550,86): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2550,118): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2552,83): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2552,116): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2554,91): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2554,127): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2556,92): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2556,128): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2558,83): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2558,115): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2560,90): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2560,119): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2562,88): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_InitializeFunc'
+J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\Test\Tests.c(2562,116): warning C4133: 'function': incompatible types - from 'unsigned char (__cdecl *)(void)' to 'CU_CleanupFunc'
+cunit.lib(TestDB.obj) : warning LNK4099: PDB 'cunit.pdb' was not found with 'cunit.lib(TestDB.obj)' or at 'J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\x64\Debug\cunit.pdb'; linking object as if no debug info
+cunit.lib(TestRun.obj) : warning LNK4099: PDB 'cunit.pdb' was not found with 'cunit.lib(TestRun.obj)' or at 'J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\x64\Debug\cunit.pdb'; linking object as if no debug info
+cunit.lib(Console.obj) : warning LNK4099: PDB 'cunit.pdb' was not found with 'cunit.lib(Console.obj)' or at 'J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\x64\Debug\cunit.pdb'; linking object as if no debug info
+cunit.lib(CUError.obj) : warning LNK4099: PDB 'cunit.pdb' was not found with 'cunit.lib(CUError.obj)' or at 'J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\x64\Debug\cunit.pdb'; linking object as if no debug info
+cunit.lib(Util.obj) : warning LNK4099: PDB 'cunit.pdb' was not found with 'cunit.lib(Util.obj)' or at 'J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\x64\Debug\cunit.pdb'; linking object as if no debug info
+cunit.lib(MessageHandlers.obj) : warning LNK4099: PDB 'cunit.pdb' was not found with 'cunit.lib(MessageHandlers.obj)' or at 'J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\x64\Debug\cunit.pdb'; linking object as if no debug info
+  Final_Project.vcxproj -> J:\University\Testing\Test\Projects\1-CUnit\Bassam_Ashraf_Final_Project\x64\Debug\Final_Project.exe
