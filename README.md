@@ -70,4 +70,4 @@ The goal of this project was to apply **software testing techniques** and use th
    - CU_console_run_tests();
 
 ### 2️⃣ Build the Project
-Just build the project after saveing the mode selected and run it
+Just build the project after saving the mode selected and run it
