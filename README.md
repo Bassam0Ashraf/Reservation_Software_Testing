@@ -72,3 +72,14 @@ The goal of this project was to apply **software testing techniques** and use th
 
 ### 2️⃣ Build the Project:
 Just build the project after saving the mode selected and run it
+
+## License
+
+This is an educational testing project for the EDGES Training Program.
+
+---
+
+**Developed by**: Bassam Ashraf  
+**Course**: SW Testing Diploma  
+**Framework**: CUnit Testing Framework  
+**Language**: C
