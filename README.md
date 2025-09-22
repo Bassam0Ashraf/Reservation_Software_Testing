@@ -105,17 +105,37 @@ The project consists of multiple modular components:
 
 ### Run Application
 To run the main application:
+Keep section 1 **uncommented** in and Comment section 2 `main.c`
 ```bash
-# Keep section 1 uncommented in main.c
-./edges_reservation
+# Section 1
+do
+	{
+		Status = Main_App_Runner();
+	} 
+while (Status != ERROR);
+
+# Section 2
+
+//Main_Test_Runner();
+
 ```
 
 ### Run Test Suite
 To execute the test cases:
+Comment section 1 and uncomment section 2 in `main.c`
 ```bash
-# Comment section 1 and uncomment section 2 in main.c
-# Then compile and run
-./edges_reservation
+# Section 1
+/*
+do
+	{
+		Status = Main_App_Runner();
+	} 
+while (Status != ERROR);
+*/
+
+# Section 2
+
+Main_Test_Runner();
 ```
 
 ### Login Credentials
